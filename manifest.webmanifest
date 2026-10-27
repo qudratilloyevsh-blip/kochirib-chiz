@@ -1,0 +1,16 @@
+{
+  "name": "Koʻchirib chiz",
+  "short_name": "Koʻchirib chiz",
+  "description": "Rasmni kamera ustida shaffof koʻrsatib, qogʻozga qoʻlda koʻchirib chizish",
+  "lang": "uz",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e1513",
+  "theme_color": "#0e1513",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
